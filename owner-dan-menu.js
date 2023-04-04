@@ -5,7 +5,7 @@ global.namaowner = "Owner Bot"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['0','6285156756860']
+global.owner = ['6285701863281','6285156756860']
 global.sessionName = 'session'
 global.prefa = ['-_-']
 global.caption_pay = `Qris All Pay
@@ -60,6 +60,6 @@ module.exports.helpMenu = (pushname) =>{
 *🎀 no coppy list*
 *🎀 all trx no reff.*
 *𐑥 ִ ͠💐᳓ꠥ̸̷̵〬  sewa ❓pc :* 
- 𔓕☎️ https://wa.me/6285156756860
+ 𔓕☎️ https://wa.me/6285701863281
 `
 }
